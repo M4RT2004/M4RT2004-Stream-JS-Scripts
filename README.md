@@ -17,4 +17,4 @@ Push to your fork (git push origin my-new-feature).
 Open a pull request.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for more details.
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE.txt) file for more details.
